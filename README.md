@@ -19,7 +19,7 @@ Key Metrics
 
 Dashboard Preview
 
-"Dashboard" (dashboard.png)
+![Dashboard](dashboard.png)
 
 Insights
 
